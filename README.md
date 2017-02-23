@@ -57,11 +57,88 @@ fault, (most probably based on a mistake by the developer / CM manager)
   - industry-specific standards.  
 
 
-  ===================================================
-  
-  
-  Seven Testing Principles
-five fundamental test activities and respective tasks from planning to closure 
+- __Testing Measures__
+    - quality of software
+        - number of defects found
+        - reliability
+        - usability,
+        - efficiency,
+        - maintainability 
+        - portability
+        - gives confidence in software
+        - quality of the software system increases
+        - risk of the system will be decreased
+        - quality assurance activities
+
+- __quality assurance activities__
+    - development standards
+    - training 
+    - defect analysis
+    - testing
+    
+- __How Much Testing is Enough?__
+     
+     
+     Testing should provide sufficient information to stakeholders to make informed decisions about below points
+
+     
+- - level of risk
+  - technical
+  - safety
+  - business risks
+  - project constraints such as time and budget     
+
+# 1.2 What is Testing? (K2)
+
+* __These activities__
+    - planning and control
+    - choosing test conditions
+    - designing test cases
+    - executing test cases
+    - checking results
+    - evaluating exit criteria
+    - reporting on the testing process
+    - reporting on the system under test
+    - finalizing or completing closure activities
+    - reviewing documents
+    - reviewing source code
+    - conducting static analysis.
+    
+* __Testing can have the following objectives:__
+    - Finding defects
+    - Gaining confidence about the level of quality
+    - Providing information for decision-making
+    - Preventing defects               
+     
+* __development testing__
+     - component
+     - integration
+     - system 
+     
+
+    as many failures as possible so that defects in the software are identified and can be fixed
+    
+* __acceptance testing__
+    - confirm that the system works as expected
+     - to gain confidence that it has met the requirements
+     
+* __main objective of testing may__
+    - be assess the quality of the software
+    - with no intention of fixing defects
+    - to give information to stakeholders of the risk of releasing the system at a given time
+    
+* __Maintenance testing__
+ - often includes testing that no new defects have been introduced during development of the changes.
+
+* __operational testing__
+    - the main objective may be to assess  reliability or availability.     
+    
+* __Debugging__
 
 
-  1.1.4 Testing and Quality (K2)
+    Debugging is the development activity that finds, analyzes and removes the cause of the failure. 
+
+
+
+
+  
