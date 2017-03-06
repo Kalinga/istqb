@@ -138,7 +138,38 @@ fault, (most probably based on a mistake by the developer / CM manager)
 
     Debugging is the development activity that finds, analyzes and removes the cause of the failure. 
 
+#1.3  Seven Testing Principles
+ 
+ * Principle 1 – Testing shows presence of defects
+ * Principle 2 – Exhaustive testing is impossible
+ * Principle 3 – Early testing
+ * Principle 4 – Defect clustering
+ * Principle 5 – Pesticide paradox
+ * Principle 6 – Testing is context dependent
+ * Principle 7 – Absence-of-errors fallacy
+ 
+# 1.4  Fundamental Test Process
+ * 1.4.1 Test Planning and Control 
+ * 1.4.2 Test Analysis and Design
+
+    * What is a `test basis`?
 
 
+        requirements,
+        software integrity level1
+        risk level,
+        risk analysis reports,
+        architecture,
+        design,
+        interface specifications
+  
+  * 1.4.3 Test Implementation and Execution
+  * 1.4.4 Evaluating Exit Criteria and Reporting 
+  * 1.4.5 Test Closure Activities
+  
+  # 1.5 The Psychology of Testing
+  # 1.6 Code of Ethics
+    
+  
 
   
