@@ -6,6 +6,10 @@
     * (containing test conditions)
     * and test case specifications.
     * test procedure specification
+
+* BS 7925-1:
+	* is BSI's standard glossary of software testing terms.
+	* This standard complements its partner BS 7925-2 (software component testing).    
     
     
  
