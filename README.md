@@ -1,4 +1,4 @@
-# QB
+# ISTQB
 
 # Foundation Level
 
